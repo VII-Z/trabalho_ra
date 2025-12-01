@@ -1,3 +1,32 @@
-**/[Ll]ibrary/
-**/[Tt]emp/
-**/[Ll]ogs/
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# VS / Rider / etc
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Crash / debug
+*.stacktrace
+
+# Cache de pacotes
+/[Pp]ackages/com.unity.collab-proxy/
+
+*.tgz
